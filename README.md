@@ -65,7 +65,7 @@ Remember to review/set parameter ranges for chosen strategy name on `configStrat
 For genetic algorithm `-g`, results are visible at the end of last epoch, as dict and Gekko UI-friendly format.
 Results can also be visible in middle epoches.. check `generations.evaluateSettingsPeriodically` @ `Settings.py` to set that interval.
 
-On bayesian method `-b`, current best setings are visible at every step, ending the same way GA does.
+On bayesian method `-b`, current best settings are visible at every step, ending the same way GA does.
 
 ### Gekko Strategies
 
